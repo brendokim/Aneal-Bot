@@ -1,8 +1,8 @@
 {
-“name”: “greeter-bot”,
+“name”: “Aneal”,
 “version”: “1.0.0”,
-“description”: “My First Discord Bot”,
+“description”: “A fun experiement - feel free to use Aneal!”,
 “main”: “bot.js”,
-“author”: “Your Name”,
+“author”: “Jim Wei”,
 “dependencies”: {}
 }
